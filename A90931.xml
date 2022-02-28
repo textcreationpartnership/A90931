@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prayers of warre for the kingdome, iudgment and iustice which God hath promised to execute under heaven here on earth, for to maintaine his word (or holy name) and to deliver this people. Against the rage and fury of the horrible and pernitious beast, which devoureth and breaketh in peeces, and stampeth the residue with its feete, blasphemeth God the most High, and endevoreth to change times and lawes. Daniel. 7. Whereunto is added an earnest voyce or letter to the late Roman emperour. Written and set forth first in the German tongue by one, who through many dangers a long time undantedly hath in person denounced unto the Roman emperour and many kings, princes and states, the iudgement of God over the world, and the deliverance of Israel, and still doth continue to admonish all people of the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90931</idno>
+            <idno type="STC">Wing P3196</idno>
+            <idno type="STC">Thomason E133_17</idno>
+            <idno type="STC">ESTC R19230</idno>
+            <idno type="EEBO-CITATION">99860619</idno>
+            <idno type="PROQUEST">99860619</idno>
+            <idno type="VID">112743</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112743)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E133[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prayers of warre for the kingdome, iudgment and iustice which God hath promised to execute under heaven here on earth, for to maintaine his word (or holy name) and to deliver this people. Against the rage and fury of the horrible and pernitious beast, which devoureth and breaketh in peeces, and stampeth the residue with its feete, blasphemeth God the most High, and endevoreth to change times and lawes. Daniel. 7. Whereunto is added an earnest voyce or letter to the late Roman emperour. Written and set forth first in the German tongue by one, who through many dangers a long time undantedly hath in person denounced unto the Roman emperour and many kings, princes and states, the iudgement of God over the world, and the deliverance of Israel, and still doth continue to admonish all people of the same.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112743:1"/>
+            <pb facs="tcp:112743:1" rendition="simple:additions"/>
+            <p>PRAYERS OF WARRE FOR THE KINGDOME, Iudgment and Iuſtice which God hath promiſed to execute under Heaven here on Earth, for to main<g ref="char:EOLhyphen"/>taine his WORD (or HOLY NAME) and to deliver his people. Againſt the Rage and Fury of the Hor<g ref="char:EOLhyphen"/>rible and pernitious Beaſt, which devoureth and break<g ref="char:EOLhyphen"/>eth in peeces, and ſtampeth the reſidue with its feete, blaſphemeth God the Moſt High, and endevoreth to change Times and Lawes. Daniel. 7. Whereunto is added an earneſt voyce or Letter to the late Roman Emperour.</p>
+            <p>Written and ſet forth firſt in the <hi>German Tongue</hi> by one, who through many dangers a long time undantedly hath in perſon denounced unto the Roman Emperour, and many Kings, Princes and States, the Iudgement of God over the world, and the deliverance of Iſrael, and ſtill doth continue to admoniſh all people of the ſame.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>G. Thompſon.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112743:2"/>
+            <pb facs="tcp:112743:2"/>
+            <head>PRAYERS OF WARRE For the Kingdome, Iudgment and Iuſtice, which God hath pro<g ref="char:EOLhyphen"/>miſed to execute under Heaven here on Earth, for to maintaine his Word (or Holy Name) and to deliver his People.</head>
+            <p n="1">1. GOD THE FATHER, who hath of Nothing Created Heaven, Earth, the Seas and All that therein is, by the hand of his Divine and Almighty power, have pitty, and deliver the Creature of his hands, through the Grace, Vertue and Strength of his Divine Iuſtice, from the power of the Kingdome of Eternall Darkneſſe.</p>
+            <p n="2">2. O LORD JESVS CHRIST, Thou onely Begotten Sonne of God, and Saviour of all thoſe that truely be<g ref="char:EOLhyphen"/>leeve in Thee, Thou Eternall King and Prince of Victo<g ref="char:EOLhyphen"/>rie, by whom Sinne, Death, Devill and Hell is overcome and deſtroyed: Have pitie, and deliver thoſe People from the Might and Power of all thine and their Enemies, which Thou haſt redeemed with thy moſt Holy and Precious Blood, and exceding dearely bought to thy Everlaſting Kingdome.</p>
+            <p n="3">3. GOD THE HOLY GHOST, Thou Divine Fire, which art the burning flame, light, vertue and ſtrength of all beleevers, kindle and revive thy members with the vertue
+<pb facs="tcp:112743:3"/>
+of thy Strength, that they through the power of God may bee preſerved to eternall Salvation,</p>
+            <p>
+               <hi>Thou Holy Trinitie, God the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ather, God the Sonne, and God the Holy Ghoſt,</hi> in One Eternall, Divine and Vndiviſible Eſſence, performe and fulfill what thou haſt promiſed, concerning the maintaining of thy Word and Holy Name, and the delive<g ref="char:EOLhyphen"/>rance of thy People, and haſt in thy Eternall Counſell de<g ref="char:EOLhyphen"/>creed and eſtabliſhed againſt the rage and furie of the Devill and all his members.</p>
+            <p>For there is none like unto thee O Lord, thou art great, and thy Name is great, and thou canſt ſhew it in the very Deede; who ſhould not feare thee, O King of Nations: To thee Obe<g ref="char:EOLhyphen"/>dience is due, foraſmuch as among all the wiſe men of the Na<g ref="char:EOLhyphen"/>tions, and in all their Kingdomes, there is none like unto thee: Thou Lord art the true God, and the living God, an everla<g ref="char:EOLhyphen"/>ſting King, at thy wrath the Earth trembleth, and the Nations cannot abide thine indignation. The Gods that have not made the Heavens and the Earth, even they muſt periſh from the earth, and from under the Heavens. But thou haſt made the Earth by thy power, and eſtabliſhed the world by thy Wiſe<g ref="char:EOLhyphen"/>dome, and haſt ſtretched out the heavens by thine Vnderſtan<g ref="char:EOLhyphen"/>ding, When thou uttereſt thy voyce, there is a multitude of Waters in the Heavens. <hi>Ier.</hi> 10.</p>
+            <p>Thou Lord moſt high art very terrible, a great King over all the Earth, thou reigneſt over the Heathen, thou ſitteſt upon the Throne of thine Holineſſe. <hi>Pſal.</hi> 47.</p>
+            <p>The Heathens muſt deſpaire, the Kingdomes fall, the earth muſt periſh when he uttereth his voyce; he that maketh Wars to ceaſe unto the end of the Earth, that breaketh the Bow, and cutteth the ſpeare in ſunder; that burneth the Chariot in the Fire. <hi>Pſal.</hi> 46.</p>
+            <p>Thou breakeſt the ſhips of <hi>Tharſis</hi> with an Eaſt winde; as wee have heard ſo have wee ſeene in the Citty of the Lord of Hoſts, in the City of our God: God will eſtabliſh it for ever, <hi>Selah.</hi> God we waite for thy loving kindneſſe in thy Temple.
+<pb facs="tcp:112743:3"/>
+According to thy Name, O God, ſo is thy praiſe unto the ends of the Earth. Thy Right-hand is full of Righteouſneſſe, <hi>Pſal</hi> 48.</p>
+            <p>Let the Heavens rejoyce, and let the Earth be glad, let the Sea roare and the fulneſſe thereof, let the Field be joyfull and all that is therein, and let all the Trees of the Wood re<g ref="char:EOLhyphen"/>joyce before the Lord, for hee commeth, hee commeth to Iudge the earth; he ſhall Iudge the World with righteouſneſſe, and the People with his Truth. <hi>Pſal.</hi> 96.</p>
+            <p>Hee bowed the Heavens and came downe, and darkeneſſe was under his feete. <hi>Pſal.</hi> 18.</p>
+            <p>A fire goeth before him and burneth up his Enemies round about; his Lightning enlightens the World; the Earth ſeeth it and trembleth, the Hills melt like waxe at the preſence of the Lord, at the Preſence of the Lord of the whole Earth. The Heavens declare his Righteouſneſſe, and all people ſee his Glory. <hi>Pſal.</hi> 97.</p>
+            <p>For the Lord ſhall Iudge and avenge his People, and have pittie upon his Servants. <hi>Deut.</hi> 32.</p>
+            <p>In <hi>Salem</hi> is his Tabernacle, and his dwelling place in <hi>Sion:</hi> there breaketh he the Arrowes of the Bow, the ſhield and the Sword and the Battell, <hi>Sela.</hi> Thou art more glorious and ex<g ref="char:EOLhyphen"/>cellent then the Mountaines of prey, the ſtout harted muſt bee ſpoyled, and ſleepe their ſleepe, and the Warrious muſt let their hands ſinck, at thy rebuke O God of <hi>Iacob,</hi> both the cha<g ref="char:EOLhyphen"/>riot and the horſe are caſt into a dead ſleepe; Thou, even thou art to bee feared, and who may ſtand in thy ſight when once thou art angry, when thou cauſeſt the Iudgement to bee heard from Heaven then the Earth feareth and is ſtill, <hi>Pſalme</hi> 76.</p>
+            <p>For, thou O Lord art a Iealous God, and a Revenger, yea a revenger is the Lord and furious; The Lord will take ven<g ref="char:EOLhyphen"/>geance on his adverſaries, and he reſerveth wrath for his Ene<g ref="char:EOLhyphen"/>mies, <hi>Nahum.</hi> 1.</p>
+            <p>Thou covereſt thy ſelfe with Light, thou ſtretcheſt out the
+<pb facs="tcp:112743:4"/>
+Heavens like a Curtaine, thou layeſt the beames of thy cham<g ref="char:EOLhyphen"/>bers in the Waters, thou makeſt the clouds thy Charet, thou walkeſt upon the wings of the Winde. <hi>Pſalm.</hi> 104.</p>
+            <p>Thou art the Lord, Whoſe wayes are in the whirle-winde and in the ſtorme, and the clouds are the duſt of thy feet; thou that rebukeſt the Sea and makeſt it dry, and dryeſt up all the Rivers: the Mountaines quake at Thee, and the Hills melt: the Earth quaketh at thy preſence, yea the world and all that dwell therein; who can ſtand before thine Indignation, and who can abide in the fierceneſſe of thine anger; thy furie bur<g ref="char:EOLhyphen"/>neth like fire, and the Rocks are throwne downe by him. <hi>Ne<g ref="char:EOLhyphen"/>hemiah.</hi> 1.</p>
+            <p>Thou lookeſt on the Earth and it trembleth, thou toucheſt the Hills and they ſmoake: the earth trembleth and is moved, and the foundations of the Mountaines are moved and doe tremble, when thou art angrie. <hi>Pſal.</hi> 104.</p>
+            <p>Smoake goeth up out of thy Noſtrills, and a conſuming fire out of thy Mouth, whereby coales are kindled: thy Pavil<g ref="char:EOLhyphen"/>lion round about thee is darke, and darke thick cloudes where<g ref="char:EOLhyphen"/>in thou art hidden: at the brightneſſe before Thee the Clouds paſſe with Haile and lightnings, and the Lord thundred in the Heavens, and the higheſt gave his voice with Haile and coales of fire: He ſent out his arrowes and ſcattered them, he ſhort out lightnings and diſcomfited them. <hi>Pſal.</hi> 18.</p>
+            <p>Who is ſo great a God as Thou O God, thou art the God that doeſt wonders; thou haſt declared thy ſtrength amongſt the People; thou haſt powerfully redeemed thy people, the ſonnes of <hi>Iacob,</hi> and <hi>Ioſeph Sela.</hi> The waters ſaw Thee, O God, the water ſaw thee and were afraid, the depths were troubled, the thick cloudes powred out Water, the clouds did thunder, and thy arrowes went abroad: thy lightnings lightned the world, and the Earth trembled and ſhooke. <hi>Pſal.</hi> 77.</p>
+            <p>Great is our Lord, and of great Power, his vnderſtanding is infinite. <hi>Pſal.</hi> 147.</p>
+            <p>Whatſoever he pleaſeth that he doth in Heaven and in
+<pb facs="tcp:112743:4"/>
+Earth, in the ſeas and in all deepe places, that cauſeth the Va<g ref="char:EOLhyphen"/>pours (and cloudes) to aſcend from the endes of the Earth, that maketh lightnings to raine, that bringeth the windes out of his Treaſures. <hi>Pſal.</hi> 135.</p>
+            <p>Who covereth the Heavens with cloudes, who prepareth raine for the Earth, who maketh graſſe to grow upon the Mountaines: he giveth Snow like wooll, he ſcattereth the Hoare froſt like aſhes; He caſteth forth his Ice like morſels; who can ſtand before his Cold? He ſendeth out his word and melteth them, He cauſeth his Winde to blow and it thawes, <hi>Pſal.</hi> 147.</p>
+            <p>By the Word of the Lord the Heavens were made, and all the Hoſt of them by the breath of His Mouth. <hi>Pſal.</hi> 33.</p>
+            <p>For who in the Clouds may be compared unto the Lord, who among the Sonnes of the Gods can bee likened unto the Lord. <hi>Pſal.</hi> 89.</p>
+            <p>There is none like unto the God of <hi>Ieſurun,</hi> (or of the righ<g ref="char:EOLhyphen"/>teous) who rideth upon the Heaven, whoſe excellencie is in the Skie, and vnderneath are the everlaſting armes <hi>Deut.</hi> 33.</p>
+            <p>Who executeth Vengance in anger, and fury upon the Heathen, that would not hearken. <hi>Mich.</hi> 5.</p>
+            <p>For the Lord is a great God and a great King above all Gods; in his hand are the deepe places of the Earth, and the hights of the Hills are his, for the Sea is his, and he made it, and his Hands formed the dry land. <hi>Pſal.</hi> 95.</p>
+            <p>The Lord is great, and greatly to be praiſed, he is to be fea<g ref="char:EOLhyphen"/>red above all Gods: Honour and Majeſty are before him; ſtrength and beauty are in his <hi>Sanctuarie.</hi> Let the Heavens re<g ref="char:EOLhyphen"/>joyce, and let the Earth be glad, let the Sea roare and the ful<g ref="char:EOLhyphen"/>neſſe thereof, let the Feild be ioyfull, and all that is therein, and let all the Trees of the Wood reioyce. <hi>Pſal.</hi> 96.</p>
+            <p>Make a Ioyfull Noiſe unto the Lord, all the Earth, ſerve the Lord with gladneſſe: come before his preſence with ſinging, Know yee that the Lord he is God. <hi>Pſal.</hi> 100.</p>
+            <p>For thou Lord, art high above all the Earth, thou art exal<g ref="char:EOLhyphen"/>ted farre above all Gods. <hi>Pſ.</hi> 97.</p>
+            <pb facs="tcp:112743:5"/>
+            <p>The Flouds lift up, O Lord, the flouds lift up their Voyce, the flouds lift up their Waves: The Lord on high is mightier then the Noiſe of many Waters, yea then the mighty waves of the Sea. <hi>Pſal.</hi> 93.</p>
+            <p>Therefore will not we feare, though the Earth be removed, and though the mountaines ſhould ſinck in the midſt of the Sea. <hi>Pſal.</hi> 46.</p>
+            <p>For thou ſtilleſt the Noyſe of the Seas, the noyſe of the waves, and the tumult of the people, <hi>Pſal.</hi> 65.</p>
+            <p>Why doe the Heathen rage, and the people ima<g ref="char:EOLhyphen"/>gine a vaine thing: the Kings of the Earth riſe up, and the Ru<g ref="char:EOLhyphen"/>lers take Counſell together, againſt the Lord and againſt his Anointed; therefore ſhall his wrath ſoone bee kindled <hi>Pſal.</hi> 2.</p>
+            <p>The Indignation of the Lord is upon all Nations, and his Fury upon all their Armies, <hi>Eſa.</hi> 34.</p>
+            <p>His Anger burneth, and is very heavie: His lips are full of in<g ref="char:EOLhyphen"/>dignation, and his Tongue as a devouring fire, and his breath as an overflowing ſtreame, <hi>Eſa.</hi> 30.</p>
+            <p>Our God ſhall come and ſhall not keepe ſilence, a fire ſhall devoure afore him, and it ſhall be very tempeſtuous round a<g ref="char:EOLhyphen"/>bout him <hi>Pſal.</hi> 50.</p>
+            <p>Hee ſhall let burning Coales fall upon his enemies, and hee ſhall with fire throw them downe into deepe pitts, that they never riſe up againe. <hi>Pſal.</hi> 140.</p>
+            <p>Behold he commeth ſaith the Lord of Hoſts, but who may abide the Day of his Comming? and who ſhall ſtand when he appeareth? <hi>Malach.</hi> 3.</p>
+            <p>
+               <note place="margin">Deur. 4. 6. 9. &amp; 32. ch. Heb. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. and 12. ch. Pſal. 103. Eſa. 45. Deut. 10. Exod. 15.</note>For He is a Iealous God, and a conſuming fire, that ſhall devoure all the earth with the fire of his Iealouſie, <hi>Zephan.</hi> 1. &amp; 3. chap.</p>
+            <p>Therefore bow the Heavens, O Lord, and come downe, touch the Mountaines that they ſmoake, caſt forth Lightning and ſcatter them, ſhoot out thine arrowes and deſtroy them, <hi>Pſal.</hi> 144.</p>
+            <pb facs="tcp:112743:5"/>
+            <p>
+               <note place="margin">Pſal. 103. Eſa. 45. Deut. 10. Exod. 15.</note>For thou Lord of Hoaſts art the onely God, the God of all Gods, and the Lord of all Lords; ter<g ref="char:EOLhyphen"/>rible, worthie to be praiſed, and doing wonders.</p>
+            <p>Thou haſt a Mighty arme, ſtrong is thy hand, and high is thy right hand. <hi>Pſal.</hi> 89.</p>
+            <p>Thy righteouſneſſe is like the great mountaines: Thy Iudgements are great deapths. <hi>Pſal.</hi> 36.</p>
+            <p>Surely the wrath of Man ſhall praiſe Thee, the remainder of wrath ſhalt thou reſtraine, <hi>Pſal.</hi> 76.</p>
+            <p>Great is the Lord, and greatly to bee praiſed, and his greatneſſe is unſearchable: his Kingdome is an everlaſting kingdome, and his Dominion en<g ref="char:EOLhyphen"/>dureth throughout all generations. <hi>Dan.</hi> 2. and 4. <hi>Pſal.</hi> 145.</p>
+            <p>The Lord bringth the Counſell of the Heathen to nought, he maketh the deviſes of the people of none effect, but the Counſell of the Lord ſtandeth forever: the thoughts of his heart to all generati<g ref="char:EOLhyphen"/>ons. <hi>Pſal.</hi> 33. <hi>Eſa.</hi> 8. &amp; 13.</p>
+            <p>Make a joyfull noyſe unto the Lord al the earth: Make a loud noyſe, and rejoyce, and ſing praiſe: ſing unto the Lord with the Harpe, and the Voice of a <hi>Pſalme,</hi> with Trumpets and ſound of Cornet, make a ioyfull noyſe before the Lord, the King. Let the Sea roare, &amp; the fulnes thereof: the world &amp; they that dwell therin: Let the flouds clap their hands, let the hills bee ioyfull together before the Lord, for he commeth to iudge the Earth, with righteouſneſſe ſhall he iudge the World, and the people with equity. <hi>Pſal.</hi> 98.</p>
+            <p>There is no King ſaved by the Multitude of an Hoaſt: a mighty man is not delivered by much ſtrength; a horſe is a vaine thing for ſafety, neither ſhall he deliver any by his great ſtrength. <hi>Pſal.</hi> 33.</p>
+            <pb facs="tcp:112743:6"/>
+            <p>O Lord God of Hoſts, who is a ſtrong Lord like unto thee? Thy truth is round about thee, Thou ruleſt the raging of the Sea; when the waves ther<g ref="char:EOLhyphen"/>of ariſe, thou ſtilleſt them: thou breakeſt <hi>Rahab</hi> in peeces as one that is ſlaine, Thou ſcattereſt thine Enemies with thy ſtrong Arme. <hi>pſal.</hi> 89.</p>
+            <p>Thou devideſt the Sea by thy ſtrength, Thou breakeſt the Head of the Dragons in the wa<g ref="char:EOLhyphen"/>ters: thou breakeſt the heads of Leviathan in pieces, and giveſt them to be meate to the people inhabiting the wilderneſſe; thou cleaveſt the foun<g ref="char:EOLhyphen"/>taine and the floud, thou dryeſt up mighty Rivers: The Day thine, the Night alſo: thou prepareſt the Light &amp; the Sun, thou ſetteſt all the Borders of the Earth, thou makeſt Summer and Winter <hi>Pſal.</hi> 74.</p>
+            <p>The Heavens are thine, the Earth alſo is thine: as for the World and the fulneſſe thereof, thou haſt found them; the North and the South, thou haſt created them: <hi>Tabor</hi> and <hi>Hermon</hi> ſhall reioyce in thy Name, <hi>Pſal.</hi> 89.</p>
+            <p>Bleſſed is the Nation, whoſe God is the Lord, and the people whom he hath choſen for his owne inheritanc, <hi>Pſal.</hi> 33.</p>
+            <p>God thy Worke is Holy, unſearchable &amp; incom<g ref="char:EOLhyphen"/>prehenſible are the Iudgements. <hi>Pſal.</hi> 77. Rom. 11.</p>
+            <p>Thou haſt prepared thy throne in the Heavens, and thy Kingdome ruleth over All. <hi>Pſal.</hi> 103.</p>
+            <p>Thou makeſt thine Angells windes, thy Mini<g ref="char:EOLhyphen"/>ſters a flaming fire, who laidſt the foundations of the earth that it ſhould not be removed for ever: ever: Thou coveredſt it with the Deepe as with a garment: The waters ſtood above the Moun<g ref="char:EOLhyphen"/>taines: at thy rebuke they fled: at the Voyce of thy Thunder they haſted away. <hi>Pſal.</hi> 104.</p>
+            <pb facs="tcp:112743:6"/>
+            <p>
+               <note place="margin">Eccle. 43. Eſa. 2. 3. 40. 50. chap.</note>The noyſe of his Thunder maketh the Earth tremble, &amp; the Mountaines quake before him, for the Glory of his Majeſtie, and for the Voyce of his Glory ſhall, the Mountaines depart, and the Hills be remoued. <hi>Rev.</hi> 6.</p>
+            <p>The Voyce of the Lord is upon the waters, the God of Glory thundreth, the Lord is upon many Waters; the Voyce of the Lord is very powerfull; the voyce of the Lord is full of Majeſty: the voyce of the Lord breaketh the Cedars, yea the Lord breaketh the Cedars of <hi>Lebanon;</hi> the Voyce of the Lord divideth the flames of Fire: the voyce of the Lord ſhaketh the wilderneſſe; the Lord ſhaketh the wilderneſſe of <hi>Cades,</hi> the Lord ſitteth upon the floud, yea the Lord ſitteth King for ever: The Lord will give ſtrength unto his people: the Lord will bleſſe his People with peace, <hi>Pſal.</hi> 29.</p>
+            <p>For he is the Lord ſtrong and Mighty, the Lord mighty in battell. Lift up your Heads O you gates, even l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ft them up ye everlaſting doores, and the King of Glory ſhall come in. Who is the King of Glory, the Lord of Hoſts, he is the King of Glo<g ref="char:EOLhyphen"/>rie, <hi>Sela.</hi> Pſal. 24.</p>
+            <p>He ſhall Iudge the ends of the earth, and hee ſhall give ſtrength unto his King, &amp; exalt the horne of his Anoynted: But the Adverſaries of the Lord ſhall bee broken in peeces, out of Heaven ſhall the thunder open them. 1. <hi>Sam.</hi> 2.</p>
+            <p>Vpon the wicked he ſhall raine Snares, fire and brimſtone, and an horrible Tempeſt; this ſhall be the portion of their Cup. Pſal. 11.</p>
+            <p>Hee ſhall let burning coales fall upon his ene<g ref="char:EOLhyphen"/>mies, he ſhall let them be caſt into the fire, into the
+<pb facs="tcp:112743:7"/>
+deepe pitts, that they riſe not up againe. <hi>Pſal.</hi> 40.</p>
+            <p>
+               <note place="margin">Heb. 1 &amp; 7. Pſal. 45. 97. Mich. 4. 5. 7 chap.</note>O God, thy Throne is for ever and ever, the Scepter of thy Davidicall Kingdome is a Scepter of Righteouſ<g ref="char:EOLhyphen"/>neſſe. Pſal. 89. 110. 145.</p>
+            <p>Praiſe ye the Lord, prayſe the Lord O ye Hea<g ref="char:EOLhyphen"/>vens; praiſe Him in the Hights; Praiſe ye Him all His Angells: Praiſe ye him all His Hoaſts: Praiſe ye Him Sunne and Moone, praiſe Him all ye Sarres of Light: Praiſe Him yee Heavens of Heavens, and ye Waters that be above the Hea<g ref="char:EOLhyphen"/>vens: Let them praiſe the Name of the Lord; for He commanded and they were Created. He hath alſo eſtabliſhed them for ever and ever. He hath made a Decree which ſhall not paſſe. Praiſe the Lord from the Earth, ye Dragons and all deepes, Fire and Haile, Snow &amp; Vapour, Stormy Winde fulfilling His Word, Mountaines and all Hilles: fruitfull Trees and all Cedars. Beaſts &amp; Cattell: Creeping things and flying fowle. Pſal. 148.</p>
+            <p>Bleſſe the Lord yee His Angels that excell in ſtrength, that doe His Commandements, harck<g ref="char:EOLhyphen"/>ning unto the Voyce of His WORD. Bleſſe yee the Lord all ye his Hoſts, yee Miniſters of His that doe his pleaſure.</p>
+            <p>Bleſſe ye the Lord all His Workes in all places of His Dominion: bleſſe the Lord O my ſoule. Pſal. 103.</p>
+            <p>Praiſe and Glory and Wiſedome, and Thankes, and Honour, and Power, and Might bee unto Our God for ever more <hi>Amen. Revel.</hi> 7.</p>
+            <pb facs="tcp:112743:7"/>
+            <closer>
+               <signed>
+                  <hi>A Warriour from God,</hi> ACcording to His Grace, Truth and Righte<g ref="char:EOLhyphen"/>ouſneſſe, which God hath promiſed to keepe unto <hi>David</hi> and his Seede after Him for ever, (to wit) ſo long as the Ordinance with Heaven and Earth, Sunne &amp; Moone, Day and Night endureth.<note place="margin">Revel. 10. Pſal. 89. 2 Sam. 7. 1 King. 2. 6. 8. 9. 2 Chron. 6. 7. chap. Ier. 30. 31. 33. chap. Mich. 7.</note>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="addendum">
+            <head>A VOYCE or Letter which denounceth Gods Vengeance and Iudgement to the Emperour and his Adherents.</head>
+            <head>Eſa. 30. <hi>A Voyce,</hi> By which the Lord of Hoſts out of Sion war<g ref="char:EOLhyphen"/>neth thus.</head>
+            <p>
+               <note place="margin">Ierem. 25. Ioel 3. Amos 1. Deut. 1 &amp; 10 Eſa. 2 &amp; 3. 1 Pet. 1. Eccl. 1. 10. 35. Rom. 2. 14. 4 Eſd. 11. 12. Sap. 6. Pſal. 36. 58. Revel. 16.</note>It needeth not many diſputes or proofes to ſhew that the Ruler is no more eſteemed in the eyes of the Majeſtie of God the moſt High; (by whom there is no reſpect of Perſons, 2 <hi>Chron.</hi> 19. <hi>Gal.</hi> 2. <hi>Eph.</hi> 6. <hi>Col.</hi> 3.) then he that is under the rule.</p>
+            <p>Neither are further Demonſtrations neceſſary to prove that the Emperour, (who is the Horne or Temporall Head of that Terrible and hurtfull Beaſt, which breaketh all in peeces, and ſtampeth the reſidue with its feete, <hi>Dan.</hi> 7.) neither regar<g ref="char:EOLhyphen"/>deth nor hath regarded either the Lawes of God or of Nature, to conforme his Government there<g ref="char:EOLhyphen"/>unto, according to Conſcience, but by the Power of Satan domineereth directly againſt them, upon the Throne of God.</p>
+            <p>
+               <note place="margin">Gen. 4. Num. 23. 24. Heb. 11.</note>The Blood of the oppreſſed, and the Violence uſed againſt thoſe that ſuffer, hath long enough
+<pb facs="tcp:112743:8"/>
+cryed to Heaven to the Eternall God. <hi>Revel.</hi> 6. <note place="margin">Deut. 32. Deut. 17. Mich. 5.</note>Who therefore is riſen againſt the Emperour and his Adherents, to bring to nought in them, all the plots and devices of the Devill, which they have deviſed againſt God, His Word and belie<g ref="char:EOLhyphen"/>vers. <hi>Eſa.</hi> 4. 14. 15. 35. 49. Chap. <hi>Zephan.</hi> 3.</p>
+            <p>
+               <note place="margin">Ioel 3. Nah. 3. 1 Iohn 3. Rom. 1. 6. Sap. 6. Pſal. 2. 76. 137. 2 Theſ. 2. Eſa. 51. &amp; 5. 4. chap.</note>And becauſe thoſe that ſerve him, have not on<g ref="char:EOLhyphen"/>ly no lawfull calling, but ſubmitt themſelves alſo to the Devill, when they riſe and lift up themſelves againſt God, &amp; torment poore men here upon his Earth, by no other then by the power and worke<g ref="char:EOLhyphen"/>ing of the very Devill: They have reaſon to looke well about them, and conſider how their Maſter will be able to helpe them when they have ſerved againſt God. <hi>Zach.</hi> 2. 12. 14. <hi>Ierem.</hi> 30.</p>
+            <p>
+               <note place="margin">Revel. 13. Deu. 7. 12. Eſa. 61. 63. 2 Theſ. 1. Sap. 5.</note>Seeing the Emperour, who in poore and af<g ref="char:EOLhyphen"/>flicted Mankind lifts himſelf up againſt God, both in a Coporall and Spirituall manner, is not able to helpe and deliver himſelfe from the day of the Vengeance and Iudgement of God, much leſſe to aſſiſt thoſe that helpe him, or doe deſire to fulfill his diabolicall devices and enterpriſes. <hi>Hab.</hi> 1. <hi>Pſal.</hi> 137. <hi>Eſa.</hi> 31. 49. 52. 59.</p>
+            <p>
+               <note place="margin">Sap. 18. Mat. 24.</note>
+               <hi>Out of Midnight,</hi> OR</p>
+            <p>
+               <note place="margin">Mala. 4. 2 Cor. 4. Gen. 49. Gen. 49. Revel. 5. 22. Eſa. 4. 8. 11. 28. 42. 59. 66. Mal. 4.</note>IN the midſt of the Night, when Faith is extin<g ref="char:EOLhyphen"/>guiſhed, Ieſus Chriſt the Sunne of Righteouſ<g ref="char:EOLhyphen"/>neſſe, ſet, yea no light more is within the Hearts and Conſciences of men, <hi>Zach.</hi> 4.) Commeth the Lion of the Tribe of <hi>Iuda, Eſa.</hi> 65. <hi>Heb.</hi> 7. 10. The roote of <hi>David,</hi> by whom God the great Lord, for the maintenance of the Honour of His
+<pb facs="tcp:112743:8"/>
+Word or Holy Name, <hi>Eze.</hi> 35. 36. and the full Deliverance of Mankind will make himſelfe knowne amongſt the unbelieving and ungodly Heathen. <hi>Rom.</hi> 1. and 11. chap. Hypocrites, Scor<g ref="char:EOLhyphen"/>ners and Deſpiſers, Epiſt of <hi>Iude;</hi> or falſe and ti<g ref="char:EOLhyphen"/>tular Chriſtians. <hi>Tit.</hi> 1. <hi>Mat.</hi> 24. <hi>Mar.</hi> 13. 2. <hi>Pet.</hi> 3.</p>
+            <p>
+               <note place="margin">4 Eſdr. 11. 12. Eſa. 47. 52. Revel. 10. 17. 18. 19. 20. 21. chap.</note>Men ſhall fall upon thy feathered Wings, O Thou Eagle, and thy clawes and feathers, King<g ref="char:EOLhyphen"/>dome and governement, namly they whole Body or adherents, ſhall in the DAY of the LORD and IVDGEMENT OF GOD, utterly be deſtroyed from under the Heavens, <hi>Ierem.</hi> 10. 25. <hi>Dan.</hi> 7.</p>
+            <p>
+               <note place="margin">Eſa. 66. Revel. 20. 2 Pet. 3. Mich. 5. 6. &amp; 7. chap. Revel. 2. Pſal. 49. 96. 97. 98. 99.</note>The Contents of this VOYCE have binn inſi<g ref="char:EOLhyphen"/>nuated to the late deceaſed Emperour many yeares agoe, who for his doings undoubtedly is now under Gods Iudgement and in the bottom<g ref="char:EOLhyphen"/>leſſe pit, <hi>Revel.</hi> 17. For God will not ſuffer His Ho<g ref="char:EOLhyphen"/>ly Name to bee defiled, nor his people forced a<g ref="char:EOLhyphen"/>gainſt their Soules and Conſciences: therefore this Letter or Earneſt Voice, Concerning the Iudgment of God is now againe publiſhed, that no man aſſiſt another in his unjuſt cauſe againſt God His Faithfull, and ſo bring them both into Hell. But they that will eſcape the Fiery Lake in regard of theſe preſent tumults, they muſt in all their actions, 2 <hi>Cor.</hi> 5. not onely outwardly in the Eyes of Men, <hi>Pſal.</hi> 14. but alſo in their hearts, not goe againſt God. <hi>Rom.</hi> 9. 1 <hi>Pet.</hi> 2.4. Who tryeth the hearts and reynes, <hi>Ier.</hi> 11. 17. and look<g ref="char:EOLhyphen"/>eth into the ſecrets of Men, <hi>Eſa.</hi> 29. <hi>Ierem.</hi> 23. ac<g ref="char:EOLhyphen"/>cording to which He will alſo Iudge, 1 <hi>Cor.</hi> 4. <hi>Ier.</hi> 30. <hi>Ezech.</hi> 34. 37.</p>
+            <pb facs="tcp:112743:9"/>
+            <closer>
+               <signed>
+                  <note place="margin">Dan. 12. Revel. 12. &amp; 20. 2 Theſ. 1.</note>A WARRIER according to the Truth and Righteouſneſſe of God &amp; His Iudgement, Crow<g ref="char:EOLhyphen"/>ned with afflictions and Sufferings, armed with Faith, Hope and Patience, <hi>Heb.</hi> 10. Which is in our Lord Ieſus Chriſt. 1 <hi>Theſ.</hi> 1.</signed>
+            </closer>
+            <trailer>FJNJS.</trailer>
+            <pb facs="tcp:112743:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
